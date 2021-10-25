@@ -31,6 +31,6 @@ public class Main {
         System.out.println(list);
         return list.size();
     }
-
+//some info
 
 }
