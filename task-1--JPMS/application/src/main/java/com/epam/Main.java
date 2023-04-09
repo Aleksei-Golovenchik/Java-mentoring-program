@@ -22,7 +22,5 @@ public class Main {
         service.subscribe(bankCard2);
         System.out.println(service.getAllUsers());
         System.out.println(service.getSubscriptionByBankCardNumber(bankCard1.getNumber()).orElseThrow());
-
-
     }
 }

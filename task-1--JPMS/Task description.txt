@@ -57,7 +57,6 @@ Git 2.24+
 13. Use var for definition of local variables wherever it’s applicable.
 14. Use lambdas and Java 8 features wherever it’s applicable.
 15. Create application module.
-
 16. Add module-info.java which :
 - use interfaces
 - requires module with Bank implementation
